@@ -1,9 +1,3 @@
-<div align="center">
-
-<table border="0" align="center">
-<tr>
-<td align="left" width="600">
-
 # Hey, I'm Filsenn! 👾
 
 **Discord bot tinkerer & music enjoyer**
